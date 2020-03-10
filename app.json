@@ -17,7 +17,15 @@
         },
         "CONFIG_JSON3": {
             "description": "拼接config.json,默认",
-            "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
+            "value": "\",\"alterId\":64}]},\"streamSettings\":{\"network\":\"ws\""
+        },
+        "CONFIG_JSON4": {
+            "description": "拼接config.json,默认",
+            "value": ",\"wsSettings\":{\"path\":\"/f9a1180b-3aa7-4c41-a881-e3e97259fb4d/58c76a4f/\"}"
+        },
+        "CONFIG_JSON5": {
+            "description": "拼接config.json,默认",
+            "value":"}},\"inboundDetour\":[],\"outbound\":{\"protocol\":\"freedom\",\"settings\":{}}}"
         }
      
   },
